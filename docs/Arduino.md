@@ -1,52 +1,6 @@
-Arduino电子迷基础元件包套件501D
+# 3、Arduino
 
-![](media/40d66f5a99e4ceac5841e7819117b297.jpg)
-
-# 1、说明
-
-这个套件包含我们玩单片机时使用到的几个常用元件，如不同阻值的电阻、不同颜色的LED灯、按键、三极管、常用芯片等。套件适用于各种单片机和树莓派。我们还会根据这些元件，提供一些基于Arduino开发板的一些学习课程，如LED闪烁实验、按键控灯实验、电位器控灯等，让你对这些电子元件和Arduino开发板有个初步的了解。
-
-# 2、清单
-
-|编码|名称|描述|数量|图片|
-|-|-|-|-|-|
-|1|LED|F5-红发红-短|10|![](media/1eba37a568de56317c9b9a59738e76ee.png)|
-|2|LED|F5-黄发黄-短|10|![](media/c871ecd95ce2be359e1ac2babcfcfaeb.png)|
-|3|LED|F5-绿发绿-短|10|![](media/fb6f7a17d1cd0704124dd36063ef06bd.png)|
-|4|电阻|碳膜色环 1/4W 1% 100R 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|5|电阻|碳膜色环 1/4W 1% 220R 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|6|电阻|碳膜色环 1/4W 1% 470R 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|7|电阻|碳膜色环 1/4W 1% 1K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|8|电阻|碳膜色环 1/4W 1% 2.2K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|9|电阻|碳膜色环 1/4W 1% 4.7K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|10|电阻|碳膜色环 1/4W 1% 10K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|11|电阻|碳膜色环 1/4W 1% 22K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|12|电阻|碳膜色环 1/4W 1% 100K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|13|电阻|碳膜色环 1/4W 1% 330K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|14|电阻|碳膜色环 1/4W 1% 1M 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|15|陶瓷电容|22PF 2.54|10|![](media/c200abaaab6e66909db4246cfc40a5c3.jpg)|
-|16|陶瓷电容|10NF 103 2.54|10|![](media/95b3a048aae8795c4e284634a810baa3.png)|
-|17|陶瓷电容|100NF 104 2.54|10|![](media/7716d3ca251ddd2fe0e2aaefdb71c9f5.png)|
-|18|电解电容|1UF 50V 4*7MM 插件|10|![](media/8c8e8c7eccda8ec86489d22d8870254d.jpg)|
-|19|电解电容|10UF 16V 3*5MM 插件|10|![](media/965a119b842096e277c17c1223e6d8dc.jpg)|
-|20|电解电容|100UF 16V 5*11MM 插件|10|![](media/830a301f75689ba466493736c790180f.jpg)|
-|21|可调电位器|3386 MU 103（三针直排）|1|![](media/6d6025bc96667b6f44070355f2041f13.jpg)|
-|22|轻触按键|12*12*7.3MM 插件|5|![](media/1728304888fdf99190fc2a0ab9f72349.jpg)|
-|23|三极管|BC547 TO-92|2|![](media/dfc919bf431240adce0d128778a6d4f2.jpg)|
-|24|三极管|BC557 TO-92|2|![](media/75565330ce348e4c0aee14994b63d8d0.jpg)|
-|25|三极管|2N3904 TO-92|2|![](media/ba63e8a185682373a6b2357f8dde8d8a.jpg)|
-|26|三极管|2N3906 TO-92|2|![](media/e89867324605951bb52c0a7af12c12b5.jpg)|
-|27|蜂鸣器|有源 12*9.5MM 5V 普通分体 2300Hz|1|![](media/5a749ec6435e3982bf4dbdc5eaf7b51e.jpg)|
-|28|IC|LD1117 3.3V（直针）DIP|3|![](media/77ae9b3c52da2cdf6ae018c8c557de9a.jpg)|
-|29|IC|4N35白色原装DIP-6|2|![](media/c0bf47813325ecfca57976e454dac811.jpg)|
-|30|IC|74HC595 DIP|1|![](media/af8baa67720daac977dee6d8262f97c9.jpg)|
-|31|IC|ULN2803APG TOSHIBA DIP|1|![](media/7ba65c213540a0e4140c501beaf10e0e.jpg)|
-|32|面包线|面包板连接线65根|1|![](media/a741fbc4b471318a5e3ef45f3871c07c.png)|
-|33|面包板|830孔 ZY-102（ 未包装）|1|![](media/48648e8442ff9d9c8f57ac99c46fdd04.jpg)|
-|34|鱼夹线|45CM 一扎10条5种颜色 两端带鳄鱼夹|1|![](media/6138354ae0521bc4e8cb6a984a594e04.jpg)|
-|35|电阻卡|100*70MM|1|![](media/93852b245f0ae356fac222dadb3dbe24.jpg)|
-
-# 3、Arduino IDE和驱动的安装
+# 3.1、Arduino IDE和驱动的安装
 
 当我们拿到开发板时，首先我们要安装Arduino IDE和驱动，相关文件我们可以在官网上找到，以下链接是包含各种系统、各种版本的Arduino IDE和驱动任你选择。
 
@@ -109,7 +63,7 @@ Arduino电子迷基础元件包套件501D
 
 ![](media/af9806622ecf816c62f7597448a3cc5f.png)
 
-# 4、Arduino IDE的使用方法
+# 3.2、Arduino IDE的使用方法
 
 Keyes UNO R3
 开发板的USB驱动安装成功之后，我们可以在Windows设备管理器中找到相应的串口。
@@ -180,7 +134,7 @@ Serial.println("Hello World!");
 
 那么恭喜你，你的第一个程序已经成功了！！！
 
-# 5、实验课程
+# 3.3、实验课程
 
 ## 实验一 LED 闪烁实验
 
@@ -1054,14 +1008,6 @@ digitalWrite(i,0);
 测试结果
 
 连接好线，上传代码，通电后，步进电机缓慢转动。
-
-# 相关资料链接
-
-<https://pan.baidu.com/s/1H7Ru_j56NFiCQKSJp9v7wA>
-
-提取码：kbfg
-
-
 
 
 
